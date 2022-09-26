@@ -1,0 +1,56 @@
+header{
+    display: flex;
+}
+header,section{
+    width: 960px;
+    margin: auto;
+    background-color: #3892FE;
+    border: 2px solid black;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+
+body{
+    font-family: var(--font);
+    margin: auto;
+    width: 960px;
+    border: 2px solid grey;
+}
+#experiencia{
+    display: flex;
+}
+
+#OP{
+    border: 2px solid black;
+}
+#FA{
+    background-color: #3892FE; 
+    border: 2px solid black;
+}
+
+#FO{
+    background-color: gray;
+     text-align: center;
+     border: 2px solid black;
+}
+
+#EX{
+    background-color: #3892FE; 
+    border: 2px solid black;
+}
+#FC{
+    border: 2px solid black;
+}
+
+#CI{
+    border: 2px solid black;
+}
+#OD{
+    border: 2px solid black;
+    background-color: #3892FE; 
+}
